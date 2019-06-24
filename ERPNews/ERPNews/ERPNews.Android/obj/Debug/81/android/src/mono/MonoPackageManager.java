@@ -109,6 +109,7 @@ class MonoPackageManager_Resources {
 		"ERPNews.Android.dll",
 		"ERPNews.dll",
 		"FormsViewGroup.dll",
+		"HtmlAgilityPack.dll",
 		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

@@ -299,3 +299,8 @@ D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNe
 D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\HtmlAgilityPack.dll
+D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\HtmlAgilityPack.pdb
+D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\System.Xml.XPath.XmlDocument.dll
+D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.XmlDocument.SR.resw
+D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\obj\x86\Debug\HtmlAgilityPack.pri.xml

@@ -30,13 +30,17 @@
     <AppXManifest Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-24T09:02:20.152</Modified>
+      <Modified>2019-06-24T11:03:55.208</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\ERPNews.UWP.exe">
       <PackagePath>entrypoint\ERPNews.UWP.exe</PackagePath>
-      <Modified>2019-06-24T09:02:19.562</Modified>
+      <Modified>2019-06-24T11:03:53.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vladm\.nuget\packages\htmlagilitypack\1.11.7\lib\uap10.0\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2019-05-31T12:07:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vladm\.nuget\packages\newtonsoft.json\12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -698,6 +702,10 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2018-05-16T10:28:36.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vladm\.nuget\packages\system.xml.xpath.xmldocument\4.3.0\lib\netstandard1.3\System.Xml.XPath.XmlDocument.dll">
+      <PackagePath>System.Xml.XPath.XmlDocument.dll</PackagePath>
+      <Modified>2016-11-04T21:57:34.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vladm\.nuget\packages\xamarin.forms\3.4.0.1008975\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
       <Modified>2018-11-13T13:15:30.000</Modified>
@@ -716,7 +724,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews\bin\Debug\netstandard2.0\ERPNews.dll">
       <PackagePath>ERPNews.dll</PackagePath>
-      <Modified>2019-06-24T09:02:14.696</Modified>
+      <Modified>2019-06-24T11:03:47.399</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -863,11 +871,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-06-24T09:02:19.413</Modified>
+      <Modified>2019-06-24T11:03:53.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-06-24T09:02:19.414</Modified>
+      <Modified>2019-06-24T11:03:53.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -879,11 +887,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-06-24T08:59:14.587</Modified>
+      <Modified>2019-06-24T09:21:54.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\Core\ERPNews.UWP.exe">
       <PackagePath>ERPNews.UWP.exe</PackagePath>
-      <Modified>2019-06-24T09:02:20.145</Modified>
+      <Modified>2019-06-24T11:03:55.197</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
