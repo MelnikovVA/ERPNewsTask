@@ -14,5 +14,7 @@ namespace ERPNews.Models
         public string MainImagePath { get; set; }
         public List<String> AdditionalImagesPaths { get; set; }
         public String Language { get; set; }
+
+        public string FormattedText { get; set; }
     }
 }
