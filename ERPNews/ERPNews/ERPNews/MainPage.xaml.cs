@@ -53,7 +53,8 @@ namespace ERPNews
 
         private async void OnItemSelected(object sender, ItemTappedEventArgs e)
         {
-            
+            var item = e.Item as News;
+            await Navigation.PushAsync(new ItemDetailsPage(item));
         }
     }
 }
