@@ -4,11 +4,34 @@
              xmlns:local="clr-namespace:ERPNews"
              x:Class="ERPNews.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
-
+    <ListView x:Name="NewsListView"
+              HasUnevenRows="True"
+              ItemTapped="OnItemSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Title}" 
+                                LineBreakMode="CharacterWrap" 
+                                FontAttributes="Bold">
+                            <Label.FontSize>
+                                <OnPlatform iOS="16"
+                                            Android="16"
+                                            UWP="18"/>
+                            </Label.FontSize>
+                        </Label>
+                        <Label Text="{Binding Text}" 
+                                LineBreakMode="CharacterWrap"
+                                MaxLines="3">
+                            <Label.FontSize>
+                                <OnPlatform iOS="12"
+                                            Android="12"
+                                            UWP="14"/>
+                            </Label.FontSize>
+                        </Label>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
 </ContentPage>
