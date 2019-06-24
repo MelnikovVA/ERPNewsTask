@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-24T13:37:31.144</Modified>
+      <Modified>2019-06-24T14:48:49.444</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\ERPNews.UWP.exe">
       <PackagePath>entrypoint\ERPNews.UWP.exe</PackagePath>
-      <Modified>2019-06-24T13:37:29.863</Modified>
+      <Modified>2019-06-24T14:48:48.570</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vladm\.nuget\packages\htmlagilitypack\1.11.7\lib\uap10.0\HtmlAgilityPack.dll">
       <PackagePath>HtmlAgilityPack.dll</PackagePath>
@@ -724,7 +724,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews\bin\Debug\netstandard2.0\ERPNews.dll">
       <PackagePath>ERPNews.dll</PackagePath>
-      <Modified>2019-06-24T13:37:23.510</Modified>
+      <Modified>2019-06-24T14:48:42.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -871,11 +871,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-06-24T13:37:29.662</Modified>
+      <Modified>2019-06-24T14:48:48.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-06-24T13:37:29.664</Modified>
+      <Modified>2019-06-24T14:48:48.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -891,7 +891,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews.UWP\bin\x86\Debug\Core\ERPNews.UWP.exe">
       <PackagePath>ERPNews.UWP.exe</PackagePath>
-      <Modified>2019-06-24T13:37:31.135</Modified>
+      <Modified>2019-06-24T14:48:49.437</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

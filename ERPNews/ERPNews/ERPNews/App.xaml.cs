@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using ERPNews.Views;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace ERPNews
@@ -11,7 +12,7 @@ namespace ERPNews
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new AllNewsPage());
         }
 
         protected override void OnStart()

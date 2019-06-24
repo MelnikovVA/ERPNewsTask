@@ -10,3 +10,4 @@ D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNe
 D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews\obj\Debug\netstandard2.0\ERPNews.dll
 D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews\obj\Debug\netstandard2.0\ERPNews.pdb
 D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Vova\All uni related stuff\Xamarin\TestTask\ERPNewsTask\ERPNews\ERPNews\ERPNews\obj\Debug\netstandard2.0\Views\AllNewsPage.xaml.g.cs
