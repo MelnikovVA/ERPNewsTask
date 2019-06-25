@@ -8,7 +8,6 @@ using Newtonsoft.Json;
 using Xamarin.Forms;
 using HtmlAgilityPack;
 using System.Web;
-using System.Linq;
 using ERPNews.Models;
 
 namespace ERPNews
@@ -53,7 +52,8 @@ namespace ERPNews
 
         private async void OnItemSelected(object sender, ItemTappedEventArgs e)
         {
-            
+            var item = e.Item as News;
+            await Navigation.PushAsync(new ItemDetailsPage(item));
         }
     }
 }
