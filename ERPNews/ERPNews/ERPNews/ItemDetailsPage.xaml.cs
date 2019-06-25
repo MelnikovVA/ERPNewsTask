@@ -16,6 +16,13 @@ namespace ERPNews
 		public ItemDetailsPage (News news)
 		{
 			InitializeComponent ();
-		}
+            var htmlSource = new HtmlWebViewSource();
+            htmlSource.Html = news.FormattedText;
+
+            var htmlTitle = "<b>" + news.Title + "</b><br />";
+            //webView.Source = htmlSource;
+
+
+        }
 	}
 }

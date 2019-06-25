@@ -23,6 +23,6 @@ namespace ERPNews.ViewModels
         public string PreviewPath { get; set; }
         public string MainImagePath { get; set; }
         public List<String> AdditionalImagesPaths { get; set; }
-        public String Language { get; set; }
+        public int Language { get; set; }
     }
 }
